@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tejasgawali4/tejasgawali4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm an extremely passionate FullStack Mobile Application Developer
 
-Here are some ideas to get you started:
+## About Skills 
+* iOS 
+* Android 
+* React Native 
+* Ionic 
+* SQL Server 
+* API developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me via 👇🏻
+
+[![Linkedin](https://raw.githubusercontent.com/tejasgawali4/SearchX/master/linkedIn.png)](https://www.linkedin.com/in/tejas-gawali-3b7aa2bb/)
+
