@@ -12,5 +12,5 @@
 
 ## Reach me via 👇🏻
 
-[![Linkedin](https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png)](https://www.linkedin.com/in/tejas-gawali-3b7aa2bb/)
+[![Linkedin](https://github.com/tejasgawali4/RN_NativeAPI/blob/master/screens/linkedin.png)](https://www.linkedin.com/in/tejas-gawali-3b7aa2bb/)
 
